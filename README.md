@@ -28,27 +28,27 @@ Ensure you have the following installed:
 ### Step 2: Install Python Requirements 
 1. Navigate to the llm/ folder:
 2. Install the required Python libraries:
-   ''' pip install -r requirements.txt '''
+   ``` pip install -r requirements.txt ```
  
 
 ### Step 3: Train Models
 1. Prepare your data: Place the relevant training files into the llm/data/ folder. 
 2. Train the embeddings and generate the Chroma database by running:
-   ''' python embeddings.py '''
+   ``` python embeddings.py ```
   This step will use the data in data/ to create embeddings and set up a Chroma database, which serves as the AI knowledge base.
 
 ### Step 4: Initialize the Database
 1. Launch Mongosh to set up the local MongoDB database:
-   ''' mongosh '''
+   ``` mongosh ```
 2. Run the following scripts to initialize users, models, and data:
-   ''' load("initdb.mongo");
+   ``` load("initdb.mongo");
        load("initUsers.mongo");
-       load("initModels.mongo"); '''
+       load("initModels.mongo"); ```
 
 ### Step 5: Run the Server
 1. Navigate back to the root folder of the project.
 2. Start the server:
-   ''' node server.js ''
+   ``` node server.js ''
 3. Open your browser and visit http://localhost:8000 to access the AI Chatroom!
 
 
@@ -76,6 +76,6 @@ Ensure you have the following installed:
 
 ### Step 4: Train the Model
 1. Run the following command in the llm/ directory to train your model:
-   ''' python embeddings.py '''
- This will generate embeddings and update the Chroma database for your new model once you run ''' node server.js ''' once again
+   ``` python embeddings.py ```
+ This will generate embeddings and update the Chroma database for your new model once you run ``` node server.js ``` once again
 
