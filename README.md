@@ -43,12 +43,13 @@ Ensure you have the following installed:
 2. Run the following scripts to initialize users, models, and data:
    ``` load("initdb.mongo");
        load("initUsers.mongo");
-       load("initModels.mongo"); ```
+       load("initModels.mongo");
+   ```
 
 ### Step 5: Run the Server
 1. Navigate back to the root folder of the project.
 2. Start the server:
-   ``` node server.js ''
+   ``` node server.js ```
 3. Open your browser and visit http://localhost:8000 to access the AI Chatroom!
 
 
