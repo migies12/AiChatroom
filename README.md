@@ -1,12 +1,21 @@
 # AI Chatroom Project
 
-## Overview  
-The AI Chatroom is a dynamic platform that combines real-time user communication with cutting-edge AI capabilities. This project allows users to:  
-- Create profiles and chat with others over a locally hosted server.  
-- Interact with custom RAG (Retrieval-Augmented Generation) chatbots trained on specific knowledge bases.  
-- Ensure privacy with locally hosted AI models and embeddings, leveraging a scalable architecture for seamless integration.  
 
-The system is powered by a Node.js server, MongoDB database, and locally trained LLMs utilizing Chroma and Oolama for efficient embeddings and AI functionality.
+## Overview  
+The AI Chatroom is a communication platform integrating real-time user interaction with AI-driven functionality. It is designed to provide a highly modular and private environment for users to interact with specialized AI models tailored to specific knowledge bases using Retrieval Augmented Generation (RAG). Key features include:  
+
+- **User Profiles and Chat:** Real-time communication on a locally hosted server, ensuring low latency and secure user interactions.  
+- **Custom RAG Chatbots:** Retrieval-Augmented Generation chatbots capable of answering domain-specific queries, trained on user-provided datasets.  
+- **Privacy-Centric Design:** All AI models, embeddings, and databases are hosted locally, ensuring data security and full control over sensitive information.  
+
+### Technical Highlights  
+- **Node.js Backend:** Facilitates robust server-side functionality, user authentication, and real-time messaging.  
+- **MongoDB Database:** Manages user profiles, chatbot configurations, and interaction logs with flexibility and scalability.  
+- **AI Integration:** Powered by Chroma - an open-source embedding database - and Oolama  - enabling efficient local deployment of large language models -.  
+- **Custom LLMs:** Built with Llama 3.2 (3B parameters) and `nomic-embed-text` for creating high-quality embeddings with fine-tuned domain-specific knowledge.  
+- **Scalability and Efficiency:** Supports lightweight, edge-compatible models with a maximum context length of 128k tokens, ideal for large documents or extended queries.  
+
+This architecture empowers users to create, train, and interact with AI models entirely offline, offering a powerful, secure, and customizable platform for AI-driven communication.
 
 ---
 
