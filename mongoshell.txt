@@ -1,0 +1,6 @@
+show collections
+
+# List all chatrooms
+db.chatrooms.find()
+db.conversations.find()
+

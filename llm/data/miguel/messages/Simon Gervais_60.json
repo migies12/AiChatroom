@@ -1,0 +1,144 @@
+{
+  "participants": [
+    "Miguel Ménard",
+    "Simon Gervais"
+  ],
+  "threadName": "Simon Gervais_60",
+  "messages": [
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Hey! Do you have time for another call tomorrow? J'ai réussi à avancer quand même mais y a encore des trucs qui marchent pas... ",
+      "timestamp": 1729962607066,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I have time for a call but not all that much if you caould have some questions ready to work on that owuld be good",
+      "timestamp": 1730005864641,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Ok cool cool yeah no problem. Dans le fond y reste le beep qui marchait pas tout à fait la dernière fois et pis comment perdre la game (I know what’s wrong I just can’t figure out how to fix it). Faut aussi que je l’optimise mais ça si on a pas le temps, je peux faire ça par moi-même",
+      "timestamp": 1730038225250,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Let me know when you’re available, I’m good to go anytime today",
+      "timestamp": 1730038243435,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "can cyou call at like 3pm?",
+      "timestamp": 1730052605044,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Your time or mine?",
+      "timestamp": 1730052732320,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yours",
+      "timestamp": 1730052773731,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "in like 45 mions",
+      "timestamp": 1730052777776,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Ok. Yeah sounds good to me",
+      "timestamp": 1730052802020,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "cool talk to you soon",
+      "timestamp": 1730052807074,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "A+",
+      "timestamp": 1730052825250,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Simon Gervais",
+      "text": "Ready?",
+      "timestamp": 1730055683835,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "copy.deepcopy()",
+      "timestamp": 1730057086859,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "copied_position = []\nfor item in current_position:\n    copied_position.append(item[:])  # Copy each inner list\n\nprevious_positions.append(copied_position)",
+      "timestamp": 1730057998985,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "counter = {'value': 0}  # Initialize counter in a dictionary",
+      "timestamp": 1730059433332,
+      "type": "text"
+    }
+  ]
+}

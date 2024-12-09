@@ -1,0 +1,568 @@
+{
+  "participants": [
+    "Miguel Ménard",
+    "Katelin Fung"
+  ],
+  "threadName": "Katelin Fung_28",
+  "messages": [
+    {
+      "isUnsent": false,
+      "media": [
+        {
+          "uri": "./media/dee63bfe-c09e-4d43-b27c-c7253a7228c4.jpeg"
+        }
+      ],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Katelin Fung",
+      "text": "",
+      "timestamp": 1711416766662,
+      "type": "media"
+    },
+    {
+      "isUnsent": false,
+      "media": [
+        {
+          "uri": "./media/1d7cd4d2-1af9-47da-ba70-449076ceda99.jpeg"
+        }
+      ],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Katelin Fung",
+      "text": "",
+      "timestamp": 1711416990909,
+      "type": "media"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Hey do you think we could start working on the volunteering sheet together?",
+      "timestamp": 1712089791915,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Yes!",
+      "timestamp": 1712098465651,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Is there a way of selling free volunteer tickets on bounce?",
+      "timestamp": 1712098565656,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Katelin Fung",
+      "text": "I can also send out the spreadsheet and ask people to sign themselves up for a volunteer spot",
+      "timestamp": 1712098589891,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Here is the link for the feee tix",
+      "timestamp": 1712098655549,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "https://bouncelife.com/events/6602608c9c4119daf93f1678",
+      "timestamp": 1712098659590,
+      "type": "link"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "That would be perfect!",
+      "timestamp": 1712098693936,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Is there a password?",
+      "timestamp": 1712099280799,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Or is it clear that they have to sign up on the volunteer sheet before they get a free volunteer ticket?",
+      "timestamp": 1712099301014,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yea there is a password too here",
+      "timestamp": 1712099397973,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "0970d2",
+      "timestamp": 1712099406063,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "It’s a better idea indeed",
+      "timestamp": 1712099420200,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "https://forms.gle/yRK5oi4wdRZjZu5Y7",
+      "timestamp": 1712157698974,
+      "type": "link"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Anything else you want to add? ",
+      "timestamp": 1712157706054,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Once people fill out the form, I will add their name to the sign up spreadsheet and send them the password",
+      "timestamp": 1712157755543,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "I sent the form out to our volunteer email list! ",
+      "timestamp": 1712177683819,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Katelin Fung",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Miguel Ménard",
+      "text": "Sorry I missed your message! But I checked over it and that all seems perfect",
+      "timestamp": 1712187548476,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "thank you!!",
+      "timestamp": 1712187553528,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Won what?",
+      "timestamp": 1712187575754,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I'll sign up for stuff after everyon has, but Ill be there all night",
+      "timestamp": 1712187591909,
+      "type": "text"
+    },
+    {
+      "isUnsent": true,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "User unsent a message",
+      "timestamp": 1712187595950,
+      "type": "placeholder"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "didnt mean to send that oops haha",
+      "timestamp": 1712187601016,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Are we going to sell drink tickets with cash?",
+      "timestamp": 1712187609090,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Oh no worries",
+      "timestamp": 1712187620199,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I was not planning on it",
+      "timestamp": 1712187623233,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Sounds good",
+      "timestamp": 1712187710107,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Just the square then?",
+      "timestamp": 1712187716167,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "oh I misread that sorry",
+      "timestamp": 1712187822222,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yes I will have drink tickets",
+      "timestamp": 1712187827269,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I meant no physical party tickets",
+      "timestamp": 1712187831311,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "and yea I will accept cash, I still have to talk about borrowing the esc square, but that should be fine",
+      "timestamp": 1712187855549,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "thanks for reminding me",
+      "timestamp": 1712187857577,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Also make sure we have coins for change! Last year we had to run to the bank",
+      "timestamp": 1712188291910,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Do we already have bartenders for the party? ",
+      "timestamp": 1712262473727,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I’m not sure as it stabds",
+      "timestamp": 1712263366663,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I can definetely count on Arthur I believe though",
+      "timestamp": 1712263375754,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "I can also do it worst case",
+      "timestamp": 1712263386859,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "👍",
+      "timestamp": 1712263386866,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "How many tickets have we sold for the party? ",
+      "timestamp": 1712513943431,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Only 22 as it stabds",
+      "timestamp": 1712514816165,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "We've filled most volunteer spots - but we're still missing bartenders from 9pm onwards ",
+      "timestamp": 1712944344280,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "https://docs.google.com/spreadsheets/d/1PQMkNTCFKWGyX6c58t2ODEbWGQn_o7XpBgmt8jTIHp0/edit?usp=sharing",
+      "timestamp": 1712944344291,
+      "type": "link"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Ok, Jasia said she has a friend that wants to start at 9, and me and Arthur can do anything that is missing",
+      "timestamp": 1712957025249,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Sounds good! I just signed her up for 9pm to 10pm",
+      "timestamp": 1712971384844,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "great thank you so much!",
+      "timestamp": 1712982434338,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Do volunteers need an app to do ticket checking? ",
+      "timestamp": 1713046332307,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Oh yea I think we need the bounce app",
+      "timestamp": 1713048983835,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Hey I just filled the receipt form for a bunch of the party stuff",
+      "timestamp": 1713737266667,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "For reimbursements?",
+      "timestamp": 1713737296965,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yea",
+      "timestamp": 1713737511109,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Is that not you?",
+      "timestamp": 1713737519189,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "Not this year",
+      "timestamp": 1713737529291,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "It’s Stephanie and Vanessa",
+      "timestamp": 1713737537369,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Oh shit I thought it was you and Vanessa my bad",
+      "timestamp": 1713737540405,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Okkk sorry, thanks b",
+      "timestamp": 1713737553537,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "!^",
+      "timestamp": 1713737556566,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Katelin Fung",
+      "text": "No worries!",
+      "timestamp": 1713737557571,
+      "type": "text"
+    }
+  ]
+}

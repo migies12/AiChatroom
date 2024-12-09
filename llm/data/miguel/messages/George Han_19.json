@@ -1,0 +1,46 @@
+{
+  "participants": [
+    "Miguel Ménard",
+    "George Han"
+  ],
+  "threadName": "George Han_19",
+  "messages": [
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "George Han",
+      "text": "Yo I don't think you ever sent me the money to settle up split wise, when you get a chance could you do that please?\nThanks",
+      "timestamp": 1726273637357,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "George Han",
+          "reaction": "👍"
+        }
+      ],
+      "senderName": "Miguel Ménard",
+      "text": "Sorry I’m on e retreat rn I’ll do it today when I get back or tmr",
+      "timestamp": 1726424156563,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "George Han",
+      "text": "Sounds good, whenever you get a chance\nCan't remember if you have my email but it's georgehan824@protonmail.com",
+      "timestamp": 1726426234344,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    "Miguel Ménard",
+    "Travis Wright"
+  ],
+  "threadName": "Travis Wright_24",
+  "messages": [
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Travis Wright",
+      "text": "I have arrived",
+      "timestamp": 1720809493930,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "👍"
+        }
+      ],
+      "senderName": "Travis Wright",
+      "text": "I put the towel I borrowed on the bench by the front door",
+      "timestamp": 1720811524241,
+      "type": "text"
+    }
+  ]
+}

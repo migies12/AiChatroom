@@ -1,0 +1,23 @@
+conn = new Mongo();
+db = conn.getDB("cpen322-messenger");
+
+result = db.models.insertMany([
+	{
+		name: 'Miguel'
+		
+	},
+	{
+		name: 'Martin',
+		
+	},
+	{
+		name: 'Syllabus',
+		
+	},
+	{
+		name: 'Course',
+		
+	}
+]);
+
+print(result);

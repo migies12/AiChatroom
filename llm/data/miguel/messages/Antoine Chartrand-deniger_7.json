@@ -1,0 +1,676 @@
+{
+  "participants": [
+    "Miguel Ménard",
+    "Antoine Chartrand-deniger"
+  ],
+  "threadName": "Antoine Chartrand-deniger_7",
+  "messages": [
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yo a ubc en genie vous etes en coop?",
+      "timestamp": 1712096616166,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yessir",
+      "timestamp": 1712098702022,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Ok nice et sa ralonge ton parcours de cmb de temps?",
+      "timestamp": 1712098741412,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Un an",
+      "timestamp": 1712165626267,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Parce que tu dois faire au moins 4 stages de 4 mois",
+      "timestamp": 1712165636361,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "3 que tu peux faire l’été mais au moins un qui rallonge une session, d’habitude de monde fond juste un an de Coop à la place",
+      "timestamp": 1712165659598,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yo",
+      "timestamp": 1721432032326,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yo",
+      "timestamp": 1721432039393,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Pense tu tu peux macheter d’a beer pr chez noe?",
+      "timestamp": 1721432044443,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Yea for sure",
+      "timestamp": 1721432049490,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Tu veux quoi",
+      "timestamp": 1721432051509,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Wtv genre saporo",
+      "timestamp": 1721432057577,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Ayt 12? 24?",
+      "timestamp": 1721432066665,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Une 12 c parfait",
+      "timestamp": 1721432072727,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Okay pas de problème",
+      "timestamp": 1721432081812,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Thx big",
+      "timestamp": 1721432086865,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "For sure tkt",
+      "timestamp": 1721432095957,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Par hasard tu revient tu au Québec soon?",
+      "timestamp": 1728399239394,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "non jpenses pas jusqu'a noel",
+      "timestamp": 1728410420187,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "pq",
+      "timestamp": 1728410420198,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Ah okok on voulais que tu join un hackathon avec alex, moi et pow",
+      "timestamp": 1728410630303,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Mais une autre fois",
+      "timestamp": 1728410640400,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "c'est quoi les odds que je peux aider rmote?",
+      "timestamp": 1728411027271,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "😮"
+        }
+      ],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "I mean tu peux tjrs aidé mais la team doit être la bas. En gros c un challenge qu’on as start ya 1 mois et ont a été sélectionner pour la final round mais y manquais une personne",
+      "timestamp": 1728411563635,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Mais si tu veux être présent en ligne ig tu peux hahah",
+      "timestamp": 1728411584845,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Oh what congrats c’est nice",
+      "timestamp": 1728411598988,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Vs avez fait quoi?",
+      "timestamp": 1728411602021,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "oh ok yea c'est quand meme bien tryhard",
+      "timestamp": 1728414318173,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "c'est quand meme tres cool though",
+      "timestamp": 1728414359584,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yea c mon first hackathon tho hate de voir",
+      "timestamp": 1728414477770,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "ah nice",
+      "timestamp": 1728414511106,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "mais yea si vous voulez des mains de plus d'ici je serais down d'aider",
+      "timestamp": 1728414522216,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "chui pas un gars de finance mais j'ai un good brain",
+      "timestamp": 1728414531301,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Damn c sur sa pourrais être nice",
+      "timestamp": 1728414561611,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "C pas mal juste moi et pow pr la finance anw",
+      "timestamp": 1728414568687,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Les boys sont down",
+      "timestamp": 1728414704048,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "oh shit ayt ok on peut en parler then mais y me faut plus de deatils",
+      "timestamp": 1728414733323,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yea tkt",
+      "timestamp": 1728414749493,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "On t’enverras les infos et si t down tu nous aideras et si tu peux pas c pas la fin du monde nn plus",
+      "timestamp": 1728414791912,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yea okkkk sounds good je suis quand meme ss si j;ai le temps",
+      "timestamp": 1728414990900,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [
+        {
+          "uri": "./media/78b38457-08df-42ce-8ed0-ee11403fd0c3.wav"
+        }
+      ],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "",
+      "timestamp": 1728415053533,
+      "type": "media"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yea j'ai regarder",
+      "timestamp": 1728415538384,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "c'est nice comme model legit",
+      "timestamp": 1728415549484,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Ouais c'est clair que je peux aider avc le code",
+      "timestamp": 1728415561605,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "vous utiliser tensorflow pour le ai?",
+      "timestamp": 1728415567668,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Non aucunement",
+      "timestamp": 1728415583835,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "le model c'est de ou?",
+      "timestamp": 1728415593926,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Att jte send le package",
+      "timestamp": 1728415611109,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "okay",
+      "timestamp": 1728415623225,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [
+        {
+          "uri": "./media/454b43cc-1902-48d3-98b1-b11231c6f875.jpeg"
+        }
+      ],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "",
+      "timestamp": 1728415674742,
+      "type": "media"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Et le wavelet on l’as juste coder",
+      "timestamp": 1728415680807,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "okok nice",
+      "timestamp": 1728415694944,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "ok je viens de checker skylearn c'est similaire a ce que j'ai fais dans un model d'ADN",
+      "timestamp": 1728415733327,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "seems coool",
+      "timestamp": 1728415750494,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "What hahahah nice",
+      "timestamp": 1728415751517,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "c'etait pour un course",
+      "timestamp": 1728415758579,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "genre analyse de dection de cancer renal",
+      "timestamp": 1728415773726,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "C quand même vraiment nice",
+      "timestamp": 1728415790907,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yea c'etait cool",
+      "timestamp": 1728415796956,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "Je serais down de faire un model de qqchose de plus concret comme la finance though",
+      "timestamp": 1728415836357,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yea bah cest clair que c’est différent mais c plus facile en finance pcq ta du data a l’infini",
+      "timestamp": 1728415875751,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Mais le ml ctait surtout pow et moi qui l’ont fait",
+      "timestamp": 1728415905054,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yea c'est exactement a ca que je pensais",
+      "timestamp": 1728415916137,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "en plus tu peux tjrs valider avc le vrai marcher",
+      "timestamp": 1728415924235,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Ouais exact",
+      "timestamp": 1728415942423,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "yea ok tkt, je trouves ca juste cool",
+      "timestamp": 1728415947457,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Bah c dememe que tu test si c’est bon",
+      "timestamp": 1728415959598,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [
+        {
+          "actor": "Miguel Ménard",
+          "reaction": "❤"
+        }
+      ],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Yea clairement et si ta du input genre feel free c clair notre modèle a un problème",
+      "timestamp": 1728415996960,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "ok yea j'irai checker",
+      "timestamp": 1728416011112,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Antoine Chartrand-deniger",
+      "text": "Jvais dire à Alex de te add au GitHub",
+      "timestamp": 1728416028280,
+      "type": "text"
+    },
+    {
+      "isUnsent": false,
+      "media": [],
+      "reactions": [],
+      "senderName": "Miguel Ménard",
+      "text": "ca serait dope thanks",
+      "timestamp": 1728416035346,
+      "type": "text"
+    }
+  ]
+}

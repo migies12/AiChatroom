@@ -1,0 +1,322 @@
+/* Colors */
+:root {
+    --primary-green: #006241;
+    --accent-green: #01754a;
+    --light-green: #d4e9e3;
+    --beige: #f2f0eb;
+    --white: #f9f9f9;
+    --black: #000000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+html {
+    font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 100;
+    background-color: var(--beige);
+}
+
+#app-view {
+    width: 100%;
+    margin: auto;
+}
+
+@media (min-width: 768px) {
+    #app-view {
+        width: 90%;
+    }
+}
+
+@media (min-width: 1024px) {
+    #app-view {
+        width: 80%;
+    }
+}
+
+#app-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0%;
+    padding: 0%;
+    border-bottom-width: small;
+    border-bottom-style: solid;
+}
+
+.menu-item {
+    list-style: none;
+    text-align: center;
+    flex-grow: 1;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.menu-item a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    transition: color 0.3s;
+}
+
+#app-menu li {
+    padding: 10px;
+    transition: background-color 0.3s;
+}
+
+#app-menu li:hover {
+    background-color: var(--light-green);
+}
+
+#app-menu li:hover a {
+    color: var(--primary-green);
+}
+
+/* Room List */
+
+.room-list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.room-item {
+    background-color: var(--beige);
+    padding: 40px 25px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+    text-align: left;
+    border-bottom-width: small;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+}
+
+.room-item a {
+    text-decoration: none;
+    color: var(--neutral-dark);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.room-item:hover {
+    background-color: var(--light-green);
+    color: var(--accent-green);
+}
+
+.page-control {
+    display: flex;
+    justify-content: center;
+    padding: 40px 25px;
+    gap: 10px;
+}
+
+.room-name {
+    font-family: 'Montserrat';
+    padding: 15px;
+    padding-right: 50px;
+}
+
+.page-control .save-button:hover {
+    background-color: var(--secondary-green);
+}
+
+/* Chat Room */
+.message-list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+    max-height: 60vh; /* Increase height for better scrolling area */
+    min-height: 60vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--light-green);
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 60%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.my-message {
+    background-color: var(--accent-green);
+    color: var(--white);
+    align-self: flex-end;
+}
+
+.message-user {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.message-text {
+    color: var(--white);
+}
+
+.message-model-text {
+    color: var(--black);
+}
+
+.page-control textarea {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid var(--primary-green);
+    border-radius: 5px;
+    font-size: 16px;
+    resize: none;
+}
+
+.page-control button {
+    font-family: 'Montserrat';
+    padding: 10px 20px;
+    background-color: var(--accent-green);
+    border: none;
+    color: var(--neutral-light);
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.page-control button:hover {
+    background-color: var(--light-green);
+}
+
+/* Profile Page */
+
+.profile-form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: var(--neutral-light);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-form label {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.profile-form input {
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid var(--primary-green);
+    border-radius: 4px;
+}
+
+.profile-form input:focus {
+    border-color: var(--accent);
+}
+
+.page-control .save-button {
+    background-color: var(--primary-green);
+    color: var(--neutral-light);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+/* --- Model Css --- */
+
+/* Styles for the typing indicator */
+.message.typing .typing-indicator {
+    display: inline-block;
+    width: 40px;
+    text-align: left;
+}
+
+.typing-indicator span {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-right: 2px;
+    background-color: #ccc;
+    border-radius: 50%;
+    opacity: 0.4;
+    animation: typing 1.4s infinite;
+}
+
+.typing-indicator span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.typing-indicator span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.typing-indicator span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes typing {
+    0% {
+        opacity: 0.4;
+        transform: translateY(0);
+    }
+    20% {
+        opacity: 1;
+        transform: translateY(-6px);
+    }
+    40% {
+        opacity: 0.4;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0.4;
+        transform: translateY(0);
+    }
+}
+
+.page-control textarea:disabled {
+    background-color: #9a9a9a; /* Light grey background */
+    cursor: not-allowed;       /* Change cursor to indicate it's disabled */
+}
+
+.response-time {
+    font-size: 0.85em;   /* Smaller font size */
+    color: #888;         /* Grey color */
+    margin-top: 5px;
+    display: block;
+}
+
+/* Style for the sources list */
+.sources {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.sources ul {
+    padding-left: 20px;
+    margin: 5px 0;
+}
+
+.sources li {
+    list-style-type: disc;
+}
+
+/* Style for the response time text */
+.response-time {
+    font-size: 0.85em;   /* Smaller font size */
+    color: #888;         /* Grey color */
+    margin-top: 5px;
+    display: block;
+}
