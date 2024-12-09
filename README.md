@@ -89,3 +89,8 @@ Ensure you have the following installed:
    ``` python embeddings.py ```
  This will generate embeddings and update the Chroma database for your new model once you run ``` node server.js ``` once again
 
+
+## Disclaimer  
+This project was developed in the context of a CPEN course at the University of British Columbia (UBC).  
+All features were implemented solely by Martin Tang and Miguel Ménard.  
+All AI features of this project were created and designed independently, without supervision from UBC. Full creative direction and development were inspired solely by Martin Tang and Miguel Ménard, falling outside of the course guidelines.
