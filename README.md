@@ -50,4 +50,32 @@ Ensure you have the following installed:
 2. Start the server:
    ''' node server.js ''
 3. Open your browser and visit http://localhost:8000 to access the AI Chatroom!
- 
+
+
+---
+
+## Creating and Training Your Own Model  
+
+### Step 1: Add the Model to MongoDB
+1. Open the initModels.mongo file.
+2. Add a new entry with the name of the model you want to create. Save the file.
+
+   
+### Step 2: Modify the llm/query.py File
+1. Open the llm/query.py file.
+2. At the top of the file, create a new prompt template for your model. You can use the existing templates as examples.
+3. Add the path to the Chroma database file for your new model, using the name you added in initModels.mongo.
+4. In the query_rag() method in llm/query.py, add the name of your new model to ensure it is recognized by the system.
+
+      
+### Step 3: Add Training Data
+1. Navigate to the llm/data/ folder.
+2. Create a new directory with the exact name of your new model.
+3. Place all the training data you want your model to use in this directory.
+
+
+### Step 4: Train the Model
+1. Run the following command in the llm/ directory to train your model:
+   ''' python embeddings.py '''
+ This will generate embeddings and update the Chroma database for your new model once you run ''' node server.js ''' once again
+
