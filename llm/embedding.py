@@ -39,7 +39,6 @@ def split_documents(documents: list[Document]):
     print(f"Split into {len(chunks)} chunks.")
     return chunks
 
-# Add vectorized PDFs to the Chroma DB
 def add_to_chroma(chunks: list[Document], chroma_path: str):
     db = Chroma(
         persist_directory=chroma_path, 
@@ -55,14 +54,27 @@ def add_to_chroma(chunks: list[Document], chroma_path: str):
     existing_ids = set(existing_items["ids"])
     print(f"Number of existing documents in DB: {len(existing_ids)}")
 
+    MAX_BATCH_SIZE = 5000  # Adjust this to stay below Chroma's limit
+
     # Only add new documents
     new_chunks = [chunk for chunk in chunks_with_ids if chunk.metadata["id"] not in existing_ids]
     if new_chunks:
         print(f"👉 Adding new documents: {len(new_chunks)}")
-        new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
-        db.add_documents(new_chunks, ids=new_chunk_ids)
+        
+        # Process in batches
+        for i in range(0, len(new_chunks), MAX_BATCH_SIZE):
+            batch_chunks = new_chunks[i:i + MAX_BATCH_SIZE]
+            batch_ids = [chunk.metadata["id"] for chunk in batch_chunks]
+            
+            try:
+                # Add the batch to Chroma
+                db.add_documents(batch_chunks, ids=batch_ids)
+                print(f"✅ Successfully added batch {i // MAX_BATCH_SIZE + 1} with {len(batch_chunks)} chunks.")
+            except Exception as e:
+                print(f"❌ Error adding batch {i // MAX_BATCH_SIZE + 1}: {e}")
     else:
         print("✅ No new documents to add")
+
 
 def calculate_chunk_ids(chunks):
     last_page_id = None
@@ -97,24 +109,23 @@ def main():
     base_data_path = "data"
     base_chroma_path = "chroma"
 
-    # Iterate through all folders in the data directory
-    for folder_name in os.listdir(base_data_path):
-        folder_path = os.path.join(base_data_path, folder_name)
-
-        # Skip non-folder entries
-        if not os.path.isdir(folder_path):
+    # Walk through all folders and subfolders in the data directory
+    for root, dirs, files in os.walk(base_data_path):
+        # Skip processing if the folder is empty
+        if not files:
             continue
 
-        # Set up the corresponding Chroma path
-        chroma_path = os.path.join(base_chroma_path, folder_name)
+        # Set up the corresponding Chroma path based on the current folder
+        relative_path = os.path.relpath(root, base_data_path)
+        chroma_path = os.path.join(base_chroma_path, relative_path)
 
         # Clear the database if --reset flag is provided
         if args.reset:
             clear_database(chroma_path)
 
         # Process documents in the current folder
-        print(f"Processing folder: {folder_name}")
-        documents = load_documents(folder_path)
+        print(f"Processing folder: {root}")
+        documents = load_documents(root)
         chunks = split_documents(documents)
         add_to_chroma(chunks, chroma_path)
 
